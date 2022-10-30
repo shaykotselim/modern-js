@@ -1,6 +1,6 @@
 /**
      For more know about map array:
-     Here -:    https://www.freecodecamp.org/news/                    javascript-map-how-to-use-the-js-map-function-array-method/
+    Here -:    https://www.freecodecamp.org/news/            javascript-map-how-to-use-the-js-map-function-array-method/
  */
 
 /**
