@@ -5,6 +5,6 @@
 
 /**
     For more know about reduce array:
-    Here -:     
+    Here -:     https://www.freecodecamp.org/news/the-ultimate-guide-to-javascript-array-methods-reduce/
 
  */
