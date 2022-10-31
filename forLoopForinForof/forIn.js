@@ -15,6 +15,6 @@
                 numberOfTeeth: Infinity
         }
 
-        for(value in shark){
-            console.log(value);
+        for(property in shark){
+            console.log(property);
         }
