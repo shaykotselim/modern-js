@@ -16,5 +16,7 @@
         }
 
         for(property in shark){
-            console.log(property);
-        }
+            console.log(property); // Print property names of object
+        }   // specise
+            //color
+            //umberOfTeeth
