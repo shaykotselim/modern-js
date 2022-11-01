@@ -11,4 +11,4 @@ const valuesobj = Object.values(myobj);
 // console.log(valuesobj);//[ 'Laptop', 'Dell', 5500 ]
 
 const entriesobj = Object.entries(myobj);
-console.log(entriesobj);// 
+console.log(entriesobj);// [ [ 'product', 'Laptop' ], [ 'brand', 'Dell' ], [ 'price', 5500 ] ]
