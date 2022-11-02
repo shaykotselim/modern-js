@@ -15,4 +15,4 @@
                 console.log(x + y)// 13
             };
             defaultAdd1()
-            // You get 12! This means if you don’t specifically add values to this function when you call it, it will use the default values.
+            // You get 13! This means if you don’t specifically add values to this function when you call it, it will use the default values.
